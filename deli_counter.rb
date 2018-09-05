@@ -1,0 +1,4 @@
+def line
+  customers = []
+  
+end
