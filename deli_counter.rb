@@ -5,7 +5,7 @@ def line(array)
     array.each_with_index do |customer, index|
       customers << "#{index}. #{customer}"
     end
-    puts "There are "
+    puts "The line is: "
   else 
     puts "The line is currently empty."
   
