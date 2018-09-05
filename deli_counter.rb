@@ -2,7 +2,7 @@ def line(array)
   customers = []
   
   if array.length > 0 
-    array.each do |customer, index|
+    array.each_with_index do |customer, index|
       
     
   else 
