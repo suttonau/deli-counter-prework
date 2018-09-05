@@ -12,5 +12,6 @@ def line(array)
 end
 
 def take_a_number(current_line, name)
-  
+  current_line << name
+  puts 
 end 
