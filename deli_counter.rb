@@ -1,4 +1,4 @@
-def line
+def line(array)
   customers = []
   
 end
