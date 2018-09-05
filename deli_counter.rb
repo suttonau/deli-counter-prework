@@ -1,6 +1,7 @@
 def line(array)
   customers = []
   
-  if cu
+  if array.length > 0 
+    
   
 end
