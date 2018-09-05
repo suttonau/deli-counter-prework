@@ -3,7 +3,7 @@ def line(array)
   
   if array.length > 0 
     array.each_with_index do |customer, index|
-      customers << "#{index}. #{customer}"
+      customers << "#{index + 1}. #{customer}"
     end
     puts "The line is currently: #{customers.join("")}"
   else 
