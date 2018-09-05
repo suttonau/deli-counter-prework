@@ -17,5 +17,5 @@ def take_a_number(current_line, name)
 end 
 
 def now_serving(line)
-  
+  if line.length <
 end
